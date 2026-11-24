@@ -21,10 +21,6 @@
 </p>
 
 ---
-
-## 🌟 Preview Gallery
-
-
 ## 🌟 Preview Gallery
 
 <p align="center">
