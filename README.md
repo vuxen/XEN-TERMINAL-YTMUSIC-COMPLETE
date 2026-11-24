@@ -2,11 +2,11 @@
 
 <h1 align="center">Terminal UI Player</h1>
 
-<p align="center">
+<p align="left">
   🎧 A Python-based terminal music player with a minimalist monochrome interface.
 </p>
 
-<p align="center">
+<p align="left">
   What started as a simple terminal-based music player has gradually evolved into something much more.
   <br><br>
   It now features a clean monochrome terminal interface, integrated music search and playback, a centered lyrics display, and a persistent Favorites system.
@@ -16,7 +16,7 @@
   I'm happy with how the project turned out. After experimenting with different layouts, designs, and features, it's finally starting to look and feel like the music player I envisioned.
 </p>
 
-<p align="center">
+<p align="left">
   <i>Built with Python, one feature at a time. 🖥️</i>
 </p>
 
