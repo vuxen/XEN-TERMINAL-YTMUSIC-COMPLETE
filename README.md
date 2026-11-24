@@ -20,7 +20,6 @@
   <i>Built with Python, one feature at a time. 🖥️</i>
 </p>
 
----
 ## 🌟 Preview Gallery
 
 <p align="center">
