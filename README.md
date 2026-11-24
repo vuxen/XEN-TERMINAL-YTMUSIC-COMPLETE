@@ -16,10 +16,6 @@
   I'm happy with how the project turned out. After experimenting with different layouts, designs, and features, it's finally starting to look and feel like the music player I envisioned.
 </p>
 
-<p align="left">
-  <i>Built with Python, one feature at a time. 🖥️</i>
-</p>
-
 ## 🌟 Preview Gallery
 
 <p align="center">
