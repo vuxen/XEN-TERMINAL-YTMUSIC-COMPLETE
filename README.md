@@ -37,3 +37,15 @@
 <p align="center">
   <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/42416e913e314e19d2ca2b4aae1559127909cb36/Screenshot%202026-11-24%20234104.png" width="100%" alt="Terminal Music Player Preview 5">
 </p>
+
+
+<h1 align="center">Terminal UI Player Update!</h1>
+
+<p align="left">
+  What started as a simple terminal-based music player has gradually evolved into something much more.
+  <br><br>
+  Another step forward in making the terminal music experience better. Added new visual elements and improved playback features while keeping the original functionality intact.
+  <br><br>
+
+
+## 🌟 Preview Gallery
