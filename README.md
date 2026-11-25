@@ -42,8 +42,6 @@
 <h1 align="center">Terminal UI Player Update!</h1>
 
 <p align="left">
-  What started as a simple terminal-based music player has gradually evolved into something much more.
-  <br><br>
   Another step forward in making the terminal music experience better. Added new visual elements and improved playback features while keeping the original functionality intact.
   <br><br>
 
