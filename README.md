@@ -49,13 +49,13 @@
 ## 🌟 Preview Gallery
 
 <p align="center">
-  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/42416e913e314e19d2ca2b4aae1559127909cb36/Screenshot%202026-11-24%20235309.png" width="100%" alt="Terminal Music Player Preview 1">
+  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/8472b121ecdbd1d98e4c88c0fe82a6fdb95319b1/Screenshot%202026-11-25%20110357.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/42416e913e314e19d2ca2b4aae1559127909cb36/Screenshot%202026-11-24%20233809.png" width="100%" alt="Terminal Music Player Preview 2">
+  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/8472b121ecdbd1d98e4c88c0fe82a6fdb95319b1/Screenshot%202026-11-25%20110403.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/42416e913e314e19d2ca2b4aae1559127909cb36/Screenshot%202026-11-24%20233823.png" width="100%" alt="Terminal Music Player Preview 3">
+  <img src="https://github.com/vuxen/XEN-TERMINAL-YTMUSIC-COMPLETE/blob/8472b121ecdbd1d98e4c88c0fe82a6fdb95319b1/Screenshot%202026-11-25%20110433.png">
 </p>
